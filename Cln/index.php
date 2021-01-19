@@ -84,7 +84,7 @@
 
                     <div class="button-get-started">
                         <a href="https://www.youtube.com/watch?v=R8hz6cMUGBc&feature=youtu.be&ab_channel=tipak" target="_blank" class="btn btn-white btn-fill btn-lg ">
-                            Our Story
+                            Our Story1
                         </a>
                     </div>
                 </div>
