@@ -105,13 +105,17 @@
             </div>
             <div class="row">
                 <div class="col-md-4">
-                    <div class="info-icon">
-                        <div class="icon text-danger">
-                            <i class="pe-7s-graph1"></i>
-                        </div>
-                        <h3>Sales</h3>
-                        <p class="description">We make our design perfect for you. Our adjustment turn our clothes into your clothes.</p>
-                    </div>
+                <p><img class="alignnone size-medium wp-image-895 alignleft" src="https://i1.wp.com/www.ishoelaundry.com/wp-content/uploads/2010/08/Standard-Clean-3-300x200.png?resize=300%2C200" alt="iShoe Laundry - Standard Clean" width="300" height="200" srcset="https://i2.wp.com/www.ishoelaundry.com/wp-content/uploads/2010/08/Standard-Clean-3.png?resize=300%2C200&amp;ssl=1 300w, https://i2.wp.com/www.ishoelaundry.com/wp-content/uploads/2010/08/Standard-Clean-3.png?w=700&amp;ssl=1 700w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></p>
+<p style="text-align: left;"><strong>Standard Clean / Quick Clean<br />
+</strong></p>
+<ul>
+<li>Price: Rp 40.000,-</li>
+<li>Cleaning Part: Upper Sole, Middle Sole</li>
+<li>Shoe Material: All Materials (Canvas, Suede, Leather, Nubuck, etc..)</li>
+<li>Duration: 30-Minutes</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
                 </div>
                 <div class="col-md-4">
                     <div class="info-icon">
