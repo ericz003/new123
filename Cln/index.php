@@ -100,7 +100,7 @@
                 <div class="title-area">
                     <h2>Our Services</h2>
                     <div class="separator separator-danger">✻</div>
-                    <p class="description">We promise you a new look and more importantly, a new attitude. you needs and creating the best looking Shoes.</p>
+                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam quos dolore illum a beatae dicta architecto magnam quis magni, temporibus, iusto, voluptates ad. Repellat cum aspernatur facere, illo eaque ut.</p>
                 </div>
             </div>
             <div class="row">
@@ -274,7 +274,7 @@
                 </div>
 
                 <div class="button-get-started">
-                    <a href="#gaia" class="btn btn-danger btn-fill btn-lg">Contact Us</a>
+                    <a href="https://linktr.ee/cleanyourshoes_" class="btn btn-danger btn-fill btn-lg">Contact Us</a>
                 </div>
             </div>
         </div>
