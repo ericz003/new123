@@ -10,8 +10,6 @@
 
     <title>Clean Your Shoes </title>
 
-    <title>Clean Your Shoes</title>
-
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <link href="assets/css/gaia.css" rel="stylesheet"/>
