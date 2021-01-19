@@ -8,7 +8,7 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-    <title>Clean Your Shoes </title>
+    <title>Clean Your Shoes</title>
 
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
@@ -83,7 +83,7 @@
                     </div>
 
                     <div class="button-get-started">
-                        <a href="" target="_blank" class="btn btn-white btn-fill btn-lg ">
+                        <a href="https://www.youtube.com/watch?v=R8hz6cMUGBc&feature=youtu.be&ab_channel=tipak" target="_blank" class="btn btn-white btn-fill btn-lg ">
                             Our Story
                         </a>
                     </div>
